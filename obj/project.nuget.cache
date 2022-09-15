@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "D/KrjQSh9CBkzS7S5QU5EHeJZKQR4f1+6Zpf0RM/VgYtLhW44rzhuQNvMaYyoNr8N5qBiW6TwJy8ymAStHzUkg==",
+  "success": true,
+  "projectFilePath": "C:\\Personal\\Technical\\dotnetcore\\MyMicroservice\\MyMicroservice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paran\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\paran\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\paran\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\paran\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\paran\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\paran\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
